@@ -77,6 +77,7 @@ const IR = Libfreenect2FrameType(2)
 const DEPTH = Libfreenect2FrameType(4)
 
 end # module FrameType
+end
 
 ### FrameMap ###
 
